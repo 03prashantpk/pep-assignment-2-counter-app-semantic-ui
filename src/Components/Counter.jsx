@@ -7,7 +7,8 @@ function Counter() {
   const [count, setCount] = useState(0);
   return (
     <Container textAlign='center'>
-        <Segment /* Single inline CSS USED */ raised style={{margin: "15% 37% 5%", padding: "4% 4.1%", borderRadius: "8px" }}>
+        {/* Single inline CSS USED */}
+        <Segment raised style={{margin: "15% 37% 5%", padding: "4% 4.1%", borderRadius: "8px" }}>
             <Grid columns={2}>
                     <Container textAlign="center">
                         <Header as='h4'>Count</Header>
