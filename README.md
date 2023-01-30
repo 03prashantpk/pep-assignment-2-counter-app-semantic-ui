@@ -1,4 +1,9 @@
 # PEP - Placement Training Assignment 2
+
+### Image
+
+![](https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui/blob/master/public/pepassignment2.gif)
+
 #### WRITE A REACT APPLICATION FOR A COUNTER APPLICATION USING useState().
 
 1. Must use semantic-ui-react package
@@ -21,23 +26,22 @@
 
 
 ## How to run?
-> `npx create-react-app xyz`  replace these files and
-> `npm i`
-> `npm start`
+### `npx create-react-app xyz`  replace these files and
+### `npm i`
+### `npm start`
 
 
 ## If you are facing any issue, run this command and restart the app.
-> `npm install --save semantic-ui-css`
-> `npm start`
+### `npm install --save semantic-ui-css`
+### `npm start`
 
 
 ## Extra
 - `./Components/social.jsx ` Extra Function to share LinkedIn and GitHub
 
-
-### Image
-
-![](https://github.com/03prashantpk/pepassignmentone/blob/master/public/reco.gif)
+## Alternative Project Using Custom CSS 
+> Live on <a href="https://pepassignment-two-counterapp.onrender.com/">Test Without Cloning.</a>
+> On Github <a href="https://github.com/03prashantpk/pepassignment-two-CounterApp">Github Link.</a>
 
 
 <center>

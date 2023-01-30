@@ -7,7 +7,7 @@ function Counter() {
   const [count, setCount] = useState(0);
   return (
     <Container textAlign='center'>
-        <Segment /* Single inline CSS USED */ raised style={{margin: "15% 37% 5%", padding: "3% 4.1%", borderRadius: "8px" }}>
+        <Segment /* Single inline CSS USED */ raised style={{margin: "15% 37% 5%", padding: "4% 4.1%", borderRadius: "8px" }}>
             <Grid columns={2}>
                     <Container textAlign="center">
                         <Header as='h4'>Count</Header>
@@ -39,10 +39,9 @@ export default Counter;
 
 # Run this Project live: 
 
-
 Exact assignment using custom css, useState and semantic-ui-react.
-GitHub: https://github.com/03prashantpk/pepassignment-two-CounterApp  <--- Visit the link
-Live: https://pepassignment-two-counterapp.onrender.com/   <--- Visit the link
-click CTRL + Mouse Click to follow the link
+> GitHub: https://github.com/03prashantpk/pepassignment-two-CounterApp  <--- Visit the link
+> Live: https://pepassignment-two-counterapp.onrender.com/   <--- Visit the link
+> click CTRL + Mouse Click to follow the link
 
 ------------------------------------------------------------------------------------------------*/
