@@ -1,7 +1,7 @@
 # PEP - Placement Training Assignment 2
 
 ### Image
-
+## App 
 ![](https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui/blob/master/public/pepassignment2.gif)
 
 #### WRITE A REACT APPLICATION FOR A COUNTER APPLICATION USING useState().
@@ -42,6 +42,15 @@
 ## Alternative Project Using Custom CSS 
 > Live on <a href="https://pepassignment-two-counterapp.onrender.com/">Test Without Cloning.</a>
 > On Github <a href="https://github.com/03prashantpk/pepassignment-two-CounterApp">Github Link.</a>
+
+
+# Code snapshot
+## Code App.jsx
+![](https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui/blob/master/public/pepassignmentSS2.JPG)
+
+## Code ./Components/Counter.jsx
+![](https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui/blob/master/public/pepassignmentSS.JPG)
+
 
 
 <center>
