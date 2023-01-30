@@ -22,7 +22,7 @@
 
 
 ## Live On
-> Live on <a href="https://pepassignment-two-counterapp.onrender.com/">Test Without Cloning.</a>
+> Live on <a href="https://pep-assignment-2-counter-app-semantic-ui.onrender.com/">Test Without Cloning.</a>
 
 
 ## How to run?
