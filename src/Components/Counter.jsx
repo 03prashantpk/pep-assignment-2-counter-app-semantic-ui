@@ -4,7 +4,7 @@ import { Segment, Grid, Button, Header, Container } from "semantic-ui-react";
 import Social from './Social' // Github and LinkedIn Links
 
 function Counter() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0);    
   return (
     <Container textAlign='center'>
         {/* Single inline CSS USED */}
@@ -29,6 +29,7 @@ function Counter() {
                 </Grid.Row>
             </Grid>
         </Segment>
+        {/* Credit Outside of the Segment Tag */}
         <Header as={"h5"} onMouseOver={Social}>Done By Prashant Kumar - 12014798</Header>
     </Container>
   );
@@ -37,12 +38,15 @@ export default Counter;
 
 
 /*----------------------------------------------------------------------------------------------
+# Student Name: Prashant Kumar Reg: 120147XX
 
 # Run this Project live: 
+> Live: https://pep-assignment-2-counter-app-semantic-ui.onrender.com/
+> GitHub: https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui
+
 
 Exact assignment using custom css, useState and semantic-ui-react.
-> GitHub: https://github.com/03prashantpk/pepassignment-two-CounterApp  <--- Visit the link
-> Live: https://pepassignment-two-counterapp.onrender.com/   <--- Visit the link
-> click CTRL + Mouse Click to follow the link
+> GitHub: https://github.com/03prashantpk/pepassignment-two-CounterApp  
+> Live: https://pepassignment-two-counterapp.onrender.com/   
 
 ------------------------------------------------------------------------------------------------*/
