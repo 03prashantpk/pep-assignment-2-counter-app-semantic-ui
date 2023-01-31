@@ -38,7 +38,7 @@ export default Counter;
 
 
 /*----------------------------------------------------------------------------------------------
-# Student Name: Prashant Kumar Reg: 120147XX
+# Student Name: Prashant Kumar Reg: 120147XX 
 
 # Run this Project live: 
 > Live: https://pep-assignment-2-counter-app-semantic-ui.onrender.com/

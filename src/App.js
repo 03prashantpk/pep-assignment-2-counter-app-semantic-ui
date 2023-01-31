@@ -14,7 +14,7 @@ export default app;
 
 /*----------------------------------------------------------------------------------------------
 
-# Run this Project live: 
+# Run this Project live:  
 > Live: https://pep-assignment-2-counter-app-semantic-ui.onrender.com/
 > GitHub: https://github.com/03prashantpk/pep-assignment-2-counter-app-semantic-ui
 
